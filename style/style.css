@@ -558,6 +558,15 @@ input[type="checkbox"]:focus {
 
     font-size: 1rem;
   }
+  .main-title {
+    font-size: 32px;
+    margin-bottom: 30px;
+  }
+  .main-descr {
+    font-size: 25px;
+        margin-bottom: 35px;
+
+  }
 }
 
 
@@ -597,6 +606,12 @@ input[type="checkbox"]:focus {
   }
   .footer-submit {
     display: none;
+  }
+  .form {
+    padding: 0 20px 20px 20px;
+  }
+  h1 {
+    font-size: 40px;
   }
 }
 @media (max-width: 1350px){
