@@ -1,4 +1,4 @@
-![mst](https://sun9-41.userapi.com/impg/Mbz9QOKVhUXRF2Hl8X_OhMbJ_13Ul-2NH2fVhg/Wq-JCCU6Xtk.jpg?size=1080x1080&quality=95&sign=29a8f16b72ac494539279f7d6141e651&type=album, Компания mst)
+![mst](https://sun9-41.userapi.com/impg/Mbz9QOKVhUXRF2Hl8X_OhMbJ_13Ul-2NH2fVhg/Wq-JCCU6Xtk.jpg?size=1080x1080&quality=95&sign=29a8f16b72ac494539279f7d6141e651&type=album, "Компания mst")
 # **Тестовое задание mst**
 ## Часть 1
 
